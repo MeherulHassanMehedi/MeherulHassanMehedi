@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeherulHassanMehedi
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on it.
 
 <!---
